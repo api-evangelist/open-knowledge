@@ -1,0 +1,84 @@
+{
+    "name": "Open Knowledge",
+    "description": "Open Knowledge International is a worldwide non-profit network of people passionate about openness, using advocacy, technology and training to unlock information and enable people to work with it to create and share knowledge.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10158-open-knowledge.jpg",
+    "tags": [
+        "cities",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-knowledge\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Knowledge",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10158-open-knowledge.jpg",
+            "humanURL": "https:\/\/okfn.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-knowledge-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/open-knowledge-foundation"
+        },
+        {
+            "type": "Email",
+            "url": "press@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "ip@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "Mark.Gibbs@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "paul.walsh@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "rufus.pollock@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "stephen.abbottpugh@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "jo.barratt@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "christopher.hovey@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "diana.krebs@okfn.org"
+        },
+        {
+            "type": "Email",
+            "url": "sander.vanderwaal@okfn.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OKFN"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/okfn.org\/"
+        }
+    ]
+}
